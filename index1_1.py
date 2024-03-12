@@ -1,4 +1,5 @@
-#Write a program to find the middle element of the list. If the list contains an even number of elements, return the second middle element
+#Write a program to find the middle element of the list. If the list contains an even number 
+#of elements, return the second middle element
 
 
 def find_middle_element(lst):
